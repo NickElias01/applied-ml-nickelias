@@ -4,22 +4,22 @@
 |                   | Case 2 | age | 61% | 57% | 53% | 50% | - |
 |                   | Case 3 | age + family_size | 59% | 55 % | 55% | 54% | - |
 |-------------------|------|---------------|----------|-----------|--------|-----------|-------|
-| **SVM (RBF Kernel)** | Case 1 | alone | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 2 | age | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 3 | age + family_size | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
+| **SVM (RBF Kernel)** | Case 1 | alone | 63% | 61% | 62% | 61% | - |
+|                    | Case 2 | age | 63% | 67% | 53% | 45% | - |
+|                    | Case 3 | age + family_size | 63% | 67% | 53% | 45% | Same as case 2 |
 |-------------------|------|---------------|----------|-----------|--------|-----------|-------|
-| **SVM (Linear Kernel)** | Case 1 | alone | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 2 | age | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 3 | age + family_size | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
+| **SVM (Linear Kernel)** | Case 1 | alone | 63% | 61% | 62% | 61% | - |
+|                    | Case 2 | age | 61% | 31% | 50% | 38% | - |
+|                    | Case 3 | age + family_size | 61% | 31% | 50% | 38% | Also same as case 2 |
 |-------------------|------|---------------|----------|-----------|--------|-----------|-------|
-| **SVM (Poly Kernel)** | Case 1 | alone | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 2 | age | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 3 | age + family_size | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
+| **SVM (Poly Kernel)** | Case 1 | alone | 63% | 61% | 62% | 61% | - |
+|                    | Case 2 | age | 61% | 31% | 50% | 38% | - |
+|                    | Case 3 | age + family_size | 61% | 61% | 50% | 38% | - |
 |-------------------|------|---------------|----------|-----------|--------|-----------|-------|
-| **SVM (Sigmoid Kernel)** | Case 1 | alone | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 2 | age | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 3 | age + family_size | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
+| **SVM (Sigmoid Kernel)** | Case 1 | alone | 63% | 61% | 62% | 61% | - |
+|                    | Case 2 | age | 54% | 51% | 51% | 51% | - |
+|                    | Case 3 | age + family_size | 55% | 53% | 53% | 53% | - |
 |-------------------|------|---------------|----------|-----------|--------|-----------|-------|
-| **Neural Network (MLP)** | Case 1 | alone | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 2 | age | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
-|                    | Case 3 | age + family_size | xx.xx% | xx.xx% | xx.xx% | xx.xx% | - |
+| **Neural Network (MLP)** | Case 1 | alone | 63% | 61% | 62% | 61% | - |
+|                    | Case 2 | age | 64% | 67% | 54% | 47% | - |
+|                    | Case 3 | age + family_size | 65% | 62% | 62% | 64% | - |
